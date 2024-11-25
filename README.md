@@ -25,9 +25,10 @@ Execute the program using runserver command.
 # PROGRAM
 time.html
 
-<!Doctype html>
-<html>
+   
     
+    <!Doctype.html>
+    <html>
     <head>
         <title>TIMETABLE</title>
         <style>
@@ -188,7 +189,10 @@ time.html
              </table>
                 
         </body>
-</html>
+        </html>
+        </html>
+
+
 # OUTPUT
 ![tt](https://github.com/user-attachments/assets/88c75bc7-4f1d-42f6-81b8-031d23dea3af)
 
