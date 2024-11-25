@@ -26,7 +26,9 @@ Execute the program using runserver command.
 time.html
 
 <!Doctype html>
+
 <html>
+    
     <head>
         <title>TIMETABLE</title>
         <style>
@@ -189,7 +191,9 @@ time.html
         </body>
 </html>
 # OUTPUT
-![image](https://github.com/user-attachments/assets/91529220-55eb-4edd-802e-f06d950db9d8)
+![tt](https://github.com/user-attachments/assets/88c75bc7-4f1d-42f6-81b8-031d23dea3af)
+
+
 
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
