@@ -26,7 +26,6 @@ Execute the program using runserver command.
 time.html
 
 <!Doctype html>
-
 <html>
     
     <head>
