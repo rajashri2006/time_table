@@ -23,12 +23,12 @@ Add your timetable using `<td>` tag.
 Execute the program using runserver command.
 
 # PROGRAM
+
 time.html
 
-   
-    
-    <!Doctype.html>
-    <html>
+```
+!Doctype html>
+<html>
     <head>
         <title>TIMETABLE</title>
         <style>
@@ -38,13 +38,13 @@ time.html
             }
            
         table,tr,th,td{
-            border: 4px solid rgb(245, 240, 238);
+            border: 4px solid rgb(146, 143, 141);
         } 
         th{
-            background-color: rgba(205, 221, 37, 0.893);
+            background-color: rgb(246, 242, 9);
         }
         tr{
-            background-color: rgb(58, 139, 42);
+            background-color: rgb(51, 209, 227);
         }
         table{
             border-collapse: collapse;
@@ -74,7 +74,7 @@ time.html
         <body>
             
             <div class="logo">
-            <img src="/static/WEB_LOGO-01.png">
+            <img src="WEB_LOGO-01.png">
             </div>
             <div class="head">
                 <b>TIME TABLE</b>
@@ -189,12 +189,14 @@ time.html
              </table>
                 
         </body>
-        </html>
-        </html>
+</html>
+```
+         
 
 
 # OUTPUT
-![tt](https://github.com/user-attachments/assets/88c75bc7-4f1d-42f6-81b8-031d23dea3af)
+![timetable](https://github.com/user-attachments/assets/5105c4fa-0e1a-44cb-ac7c-8be0b9645a2c)
+
 
 
 
