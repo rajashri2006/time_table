@@ -23,10 +23,10 @@ Add your timetable using `<td>` tag.
 Execute the program using runserver command.
 
 # PROGRAM
-
+```
 time.html
 
-```
+
 !Doctype html>
 <html>
     <head>
@@ -198,6 +198,7 @@ time.html
 ![timetable](https://github.com/user-attachments/assets/5105c4fa-0e1a-44cb-ac7c-8be0b9645a2c)
 
 
+![time table output](https://github.com/user-attachments/assets/da3c9c7b-0ae3-4661-84d3-3c3881d9fe4b)
 
 
 # RESULT
